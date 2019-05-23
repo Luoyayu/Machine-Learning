@@ -1,0 +1,6 @@
+*.swo
+*.swn
+*.swp
+*.pyc
+alexnet_imagenet.npy
+data/

@@ -1,0 +1,5 @@
+package myfile
+
+func Main() {
+
+}

@@ -1,0 +1,5 @@
+id1 : real ; id2 : ^ integer ; id3 : integer $
+id1 : real ; proc id2 ; id3 : real ; s $
+id1 : ^ real ; proc id2 ; id3 : integer ; s $
+id1 : real ; id2 : ^ real ; proc id3 ; id4 : real ; s ; proc id5 ; id6 : real ; s ; id7 : real $
+end

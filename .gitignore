@@ -1,0 +1,16 @@
+.vscode/
+.ipynb_checkpoints/
+.idea/
+Desktop.ini
+.DS_Store
+.DS_Store?
+.Trashes
+.Spotlight-V100
+*.swp
+*.pyc
+*.npy
+data/
+*.zip
+*.tar.gz
+*.h5
+
